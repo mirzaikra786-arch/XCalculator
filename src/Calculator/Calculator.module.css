@@ -1,0 +1,13 @@
+.but {
+   button{
+  border-radius: 8px;
+  margin:5px;
+   height:40px; 
+  width:40px;
+   }
+ }
+
+ .res{
+  color: gray;
+  font-family:  -apple-system;
+ }
