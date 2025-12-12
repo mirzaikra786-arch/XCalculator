@@ -1,6 +1,6 @@
 //import logo from './logo.svg';
 import './App.css';
-import Calculator from './Calculator';
+import Calculator from './Cal';
 function App() {
   return (
     <div className="App">
